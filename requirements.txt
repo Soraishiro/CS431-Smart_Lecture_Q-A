@@ -1,0 +1,26 @@
+## Runtime dependencies for the project
+# Note: prefer creating a virtual environment and installing `requirements-dev.txt` for development.
+# Vector Databases
+pinecone-client>=3.0.0
+pymilvus>=2.3.0
+
+# Sparse Retrieval
+rank-bm25>=0.2.2
+
+# Reranking & Embeddings
+sentence-transformers>=2.2.0
+
+# Utilities
+pypdf
+numpy
+jupyter
+python-dotenv
+requests
+pyyaml
+
+
+# Optional / NLP
+underthesea
+flask==3.0.0
+flask-cors==4.0.0
+gunicorn==21.2.0

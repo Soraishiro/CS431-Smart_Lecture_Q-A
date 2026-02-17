@@ -1,0 +1,39 @@
+[project]
+name = "cs431-q11-fp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask==3.0.0",
+    "flask-cors==4.0.0",
+    "google-cloud-aiplatform>=1.38.0",
+    "google-cloud-secret-manager>=2.16.0",
+    "google-cloud-storage==2.10.0",
+    "google-genai>=1.50.1",
+    "gunicorn==21.2.0",
+    "jupyter>=1.0.0",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-text-splitters>=0.3.11",
+    "langgraph>=1.0.1",
+    "langsmith>=0.4.42",
+    "llama-index>=0.14.8",
+    "llama-index-llms-google-genai>=0.7.3",
+    "numpy>=1.22.0",
+    "openpyxl>=3.1.5",
+    "pinecone-client>=3.0.0",
+    "pymilvus>=2.3.0",
+    "pypdf>=6.2.0",
+    "pytest==7.4.0",
+    "python-dotenv>=1.0.0",
+    "pyyaml>=6.0.3",
+    "rank-bm25>=0.2.2",
+    "requests==2.31.0",
+    "sentence-transformers>=2.2.0",
+    "streamlit>=1.51.0",
+    "torch>=2.9.1",
+    "transformers>=4.57.1",
+    "underthesea>=8.3.0",
+    "vncorenlp>=1.0.3",
+]

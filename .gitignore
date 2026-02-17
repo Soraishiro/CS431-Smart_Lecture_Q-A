@@ -1,0 +1,63 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# GCP credentials (NEVER commit these!)
+*-key.json
+*-credentials.json
+gcp-*.json
+service-account*.json
+application_default_credentials.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local models (large files, download on demand)
+models/vietnamese-embedding/
+models/**/*.bin
+models/**/*.safetensors
+
+# Cache directory (user-specific, rebuild on demand)
+cache/
+*.cache
+.cache/
+
+# Milvus volumes (no longer used, switched to Pinecone)
+rag/db/milvus/volumes/
+
+# Data directories (large files, not for version control)
+data/embeddings/
+data/prepared/
+data/source_system/
+data/stage*/
+data/bge/
+data/me5/
+data/vie/
+data/uploads/
+rag/db/milvus/volumes/
+
+# Docs (keep only essential docs in version control)
+docs/*.docx
+docs/*.md
+
+# Itself
+.gitignore
+
+
+

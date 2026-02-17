@@ -1,0 +1,394 @@
+[
+  {
+    "source_file": "Chương_2_Part_1_Mô_hình_học_tổng_quát",
+    "standardized_filename": "CH02_P01_S01--Mô_hình_học_tổng_quát",
+    "chapter": "CH02",
+    "part": "P01",
+    "sub_part": "S01",
+    "title": "Mô_hình_học_tổng_quát"
+  },
+  {
+    "source_file": "Chương_2_Part_2a_1_Mô_hình_hồi_quy_tuyến_tính__Linear_Regression_",
+    "standardized_filename": "CH02_P02a_S01--Mô_hình_hồi_quy_tuyến_tính_Linear_Regression",
+    "chapter": "CH02",
+    "part": "P02a",
+    "sub_part": "S01",
+    "title": "Mô_hình_hồi_quy_tuyến_tính_Linear_Regression"
+  },
+  {
+    "source_file": "Chương_2_Part_2a_2_Mô_hình_hồi_quy_tuyến_tính__Linear_Regression_",
+    "standardized_filename": "CH02_P02a_S02--Mô_hình_hồi_quy_tuyến_tính_Linear_Regression",
+    "chapter": "CH02",
+    "part": "P02a",
+    "sub_part": "S02",
+    "title": "Mô_hình_hồi_quy_tuyến_tính_Linear_Regression"
+  },
+  {
+    "source_file": "Chương_2_Part_3a_Mô_hình_hồi_quy_luận_lý__Logistic_Regression_",
+    "standardized_filename": "CH02_P03a_S01--Mô_hình_hồi_quy_luận_lý_Logistic_Regression",
+    "chapter": "CH02",
+    "part": "P03a",
+    "sub_part": "S01",
+    "title": "Mô_hình_hồi_quy_luận_lý_Logistic_Regression"
+  },
+  {
+    "source_file": "Chương_2_Part_4a_Mô_hình_hồi_quy_Softmax__SoftmaxRegression_",
+    "standardized_filename": "CH02_P04a_S01--Mô_hình_hồi_quy_Softmax_SoftmaxRegression",
+    "chapter": "CH02",
+    "part": "P04a",
+    "sub_part": "S01",
+    "title": "Mô_hình_hồi_quy_Softmax_SoftmaxRegression"
+  },
+  {
+    "source_file": "Chương_2_Part_5a_Mạng_neural_Network__Neural_Network_",
+    "standardized_filename": "CH02_P05a_S01--Mạng_neural_Network_Neural_Network",
+    "chapter": "CH02",
+    "part": "P05a",
+    "sub_part": "S01",
+    "title": "Mạng_neural_Network_Neural_Network"
+  },
+  {
+    "source_file": "Chương_3_Part_1_Giới_thiệu_mạng_CNN",
+    "standardized_filename": "CH03_P01_S01--Giới_thiệu_mạng_CNN",
+    "chapter": "CH03",
+    "part": "P01",
+    "sub_part": "S01",
+    "title": "Giới_thiệu_mạng_CNN"
+  },
+  {
+    "source_file": "Chương_3_Part_2_1_Một_số_thành_phần_của_mạng_CNN",
+    "standardized_filename": "CH03_P02_S01--Một_số_thành_phần_của_mạng_CNN",
+    "chapter": "CH03",
+    "part": "P02",
+    "sub_part": "S01",
+    "title": "Một_số_thành_phần_của_mạng_CNN"
+  },
+  {
+    "source_file": "Chương_3_Part_2_2_Một_số_thành_phần_của_mạng_CNN",
+    "standardized_filename": "CH03_P02_S02--Một_số_thành_phần_của_mạng_CNN",
+    "chapter": "CH03",
+    "part": "P02",
+    "sub_part": "S02",
+    "title": "Một_số_thành_phần_của_mạng_CNN"
+  },
+  {
+    "source_file": "Chương_3_Part_4_1_Trực_quan_hóa_mạng_CNN",
+    "standardized_filename": "CH03_P04_S01--Trực_quan_hóa_mạng_CNN",
+    "chapter": "CH03",
+    "part": "P04",
+    "sub_part": "S01",
+    "title": "Trực_quan_hóa_mạng_CNN"
+  },
+  {
+    "source_file": "Chương_3_Part_4_2_Trực_quan_hóa_mạng_CNN",
+    "standardized_filename": "CH03_P04_S02--Trực_quan_hóa_mạng_CNN",
+    "chapter": "CH03",
+    "part": "P04",
+    "sub_part": "S02",
+    "title": "Trực_quan_hóa_mạng_CNN"
+  },
+  {
+    "source_file": "Chương_4_Part_1_1_Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay",
+    "standardized_filename": "CH04_P01_S01--Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay",
+    "chapter": "CH04",
+    "part": "P01",
+    "sub_part": "S01",
+    "title": "Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay"
+  },
+  {
+    "source_file": "Chương_4_Part_1_2_Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay",
+    "standardized_filename": "CH04_P01_S02--Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay",
+    "chapter": "CH04",
+    "part": "P01",
+    "sub_part": "S02",
+    "title": "Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay"
+  },
+  {
+    "source_file": "Chương_4_Part_1_3_Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay",
+    "standardized_filename": "CH04_P01_S03--Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay",
+    "chapter": "CH04",
+    "part": "P01",
+    "sub_part": "S03",
+    "title": "Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay"
+  },
+  {
+    "source_file": "Chương_4_Part_1_4_Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay",
+    "standardized_filename": "CH04_P01_S04--Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay",
+    "chapter": "CH04",
+    "part": "P01",
+    "sub_part": "S04",
+    "title": "Ôn_tập_kiến_trúc_mạng_CNN_và_một_số_biến_thể_phổ_biến_hiện_nay"
+  },
+  {
+    "source_file": "Chương_4_Part_2_Sử_dụng_mạng_huấn_luyện_sẵn",
+    "standardized_filename": "CH04_P02_S01--Sử_dụng_mạng_huấn_luyện_sẵn",
+    "chapter": "CH04",
+    "part": "P02",
+    "sub_part": "S01",
+    "title": "Sử_dụng_mạng_huấn_luyện_sẵn"
+  },
+  {
+    "source_file": "Chương_5_Part_1-2_Ứng_dụng_trong_bài_toán_phân_loại_và_bài_toán_truy_vấn_ảnh",
+    "standardized_filename": "CH05_P01-02_S01--Ứng_dụng_trong_bài_toán_phân_loại_và_bài_toán_truy_vấn_ảnh",
+    "chapter": "CH05",
+    "part": "P01-02",
+    "sub_part": "S01",
+    "title": "Ứng_dụng_trong_bài_toán_phân_loại_và_bài_toán_truy_vấn_ảnh"
+  },
+  {
+    "source_file": "Chương_5_Part_3_Ứng_dụng_mạng_CNN_cho_bài_toán_Phát_hiện_đối_tượng",
+    "standardized_filename": "CH05_P03_S01--Ứng_dụng_mạng_CNN_cho_bài_toán_Phát_hiện_đối_tượng",
+    "chapter": "CH05",
+    "part": "P03",
+    "sub_part": "S01",
+    "title": "Ứng_dụng_mạng_CNN_cho_bài_toán_Phát_hiện_đối_tượng"
+  },
+  {
+    "source_file": "Chương_5_Part_4_Ứng_dụng_mạng_CNN_cho_bài_toán_Phân_đoạn_ngữ_nghĩa_đối_tượng",
+    "standardized_filename": "CH05_P04_S01--Ứng_dụng_mạng_CNN_cho_bài_toán_Phân_đoạn_ngữ_nghĩa_đối_tượng",
+    "chapter": "CH05",
+    "part": "P04",
+    "sub_part": "S01",
+    "title": "Ứng_dụng_mạng_CNN_cho_bài_toán_Phân_đoạn_ngữ_nghĩa_đối_tượng"
+  },
+  {
+    "source_file": "Chương_6_Part_1_Giới_thiệu_lĩnh_vực_xử_lý_ngôn_ngữ_tự_nhiên__NLP_",
+    "standardized_filename": "CH06_P01_S01--Giới_thiệu_lĩnh_vực_xử_lý_ngôn_ngữ_tự_nhiên_NLP",
+    "chapter": "CH06",
+    "part": "P01",
+    "sub_part": "S01",
+    "title": "Giới_thiệu_lĩnh_vực_xử_lý_ngôn_ngữ_tự_nhiên_NLP"
+  },
+  {
+    "source_file": "Chương_6_Part_2_Hướng_tiếp_cận_Deep_learning_cho_các_bài_toán_NLP",
+    "standardized_filename": "CH06_P02_S01--Hướng_tiếp_cận_Deep_learning_cho_các_bài_toán_NLP",
+    "chapter": "CH06",
+    "part": "P02",
+    "sub_part": "S01",
+    "title": "Hướng_tiếp_cận_Deep_learning_cho_các_bài_toán_NLP"
+  },
+  {
+    "source_file": "Chương_6_Part_3_Biểu_diễn_từ_bằng_Vector",
+    "standardized_filename": "CH06_P03_S01--Biểu_diễn_từ_bằng_Vector",
+    "chapter": "CH06",
+    "part": "P03",
+    "sub_part": "S01",
+    "title": "Biểu_diễn_từ_bằng_Vector"
+  },
+  {
+    "source_file": "Chương_6_Part_4_1_Mô_hình_Word2Vec",
+    "standardized_filename": "CH06_P04_S01--Mô_hình_Word2Vec",
+    "chapter": "CH06",
+    "part": "P04",
+    "sub_part": "S01",
+    "title": "Mô_hình_Word2Vec"
+  },
+  {
+    "source_file": "Chương_6_Part_4_2_Mô_hình_Word2Vec",
+    "standardized_filename": "CH06_P04_S02--Mô_hình_Word2Vec",
+    "chapter": "CH06",
+    "part": "P04",
+    "sub_part": "S02",
+    "title": "Mô_hình_Word2Vec"
+  },
+  {
+    "source_file": "Chương_7_Part_1_Giới_thiệu_mạng_RNN_-_Xử_lý_dữ_liệu_dạng_chuỗi",
+    "standardized_filename": "CH07_P01_S01--Giới_thiệu_mạng_RNN_Xử_lý_dữ_liệu_dạng_chuỗi",
+    "chapter": "CH07",
+    "part": "P01",
+    "sub_part": "S01",
+    "title": "Giới_thiệu_mạng_RNN_Xử_lý_dữ_liệu_dạng_chuỗi"
+  },
+  {
+    "source_file": "Chương_7_Part_2_1_Kiến_trúc_mạng_RNN",
+    "standardized_filename": "CH07_P02_S01--Kiến_trúc_mạng_RNN",
+    "chapter": "CH07",
+    "part": "P02",
+    "sub_part": "S01",
+    "title": "Kiến_trúc_mạng_RNN"
+  },
+  {
+    "source_file": "Chương_7_Part_2_2_Kiến_trúc_mạng_RNN",
+    "standardized_filename": "CH07_P02_S02--Kiến_trúc_mạng_RNN",
+    "chapter": "CH07",
+    "part": "P02",
+    "sub_part": "S02",
+    "title": "Kiến_trúc_mạng_RNN"
+  },
+  {
+    "source_file": "Chương_7_Part_3_1_Một_số_vấn_đề_của_mạng_RNN",
+    "standardized_filename": "CH07_P03_S01--Một_số_vấn_đề_của_mạng_RNN",
+    "chapter": "CH07",
+    "part": "P03",
+    "sub_part": "S01",
+    "title": "Một_số_vấn_đề_của_mạng_RNN"
+  },
+  {
+    "source_file": "Chương_7_Part_3_2_Một_số_vấn_đề_của_mạng_RNN",
+    "standardized_filename": "CH07_P03_S02--Một_số_vấn_đề_của_mạng_RNN",
+    "chapter": "CH07",
+    "part": "P03",
+    "sub_part": "S02",
+    "title": "Một_số_vấn_đề_của_mạng_RNN"
+  },
+  {
+    "source_file": "Chương_8_Part_1_1_Một_số_biến_thể_của_RNN__LSTM",
+    "standardized_filename": "CH08_P01_S01--Một_số_biến_thể_của_RNN_LSTM",
+    "chapter": "CH08",
+    "part": "P01",
+    "sub_part": "S01",
+    "title": "Một_số_biến_thể_của_RNN_LSTM"
+  },
+  {
+    "source_file": "Chương_8_Part_1_2_Một_số_biến_thể_của_RNN__LSTM",
+    "standardized_filename": "CH08_P01_S02--Một_số_biến_thể_của_RNN_LSTM",
+    "chapter": "CH08",
+    "part": "P01",
+    "sub_part": "S02",
+    "title": "Một_số_biến_thể_của_RNN_LSTM"
+  },
+  {
+    "source_file": "Chương_8_Part_2_Một_số_biến_thể_của_RNN__Bidirectional_RNN",
+    "standardized_filename": "CH08_P02_S01--Một_số_biến_thể_của_RNN_Bidirectional_RNN",
+    "chapter": "CH08",
+    "part": "P02",
+    "sub_part": "S01",
+    "title": "Một_số_biến_thể_của_RNN_Bidirectional_RNN"
+  },
+  {
+    "source_file": "Chương_8_Part_3_Một_số_biến_thể_của_RNN__Deep_Stacked_RNN",
+    "standardized_filename": "CH08_P03_S01--Một_số_biến_thể_của_RNN_Deep_Stacked_RNN",
+    "chapter": "CH08",
+    "part": "P03",
+    "sub_part": "S01",
+    "title": "Một_số_biến_thể_của_RNN_Deep_Stacked_RNN"
+  },
+  {
+    "source_file": "Chương_8_Part_4_1_Hướng_dẫn_lập_trình_với_kiến_trúc_mạng_RNN_và_LSTM",
+    "standardized_filename": "CH08_P04_S01--Hướng_dẫn_lập_trình_với_kiến_trúc_mạng_RNN_và_LSTM",
+    "chapter": "CH08",
+    "part": "P04",
+    "sub_part": "S01",
+    "title": "Hướng_dẫn_lập_trình_với_kiến_trúc_mạng_RNN_và_LSTM"
+  },
+  {
+    "source_file": "Chương_8_Part_4_2_Hướng_dẫn_lập_trình_với_kiến_trúc_mạng_RNN_và_LSTM",
+    "standardized_filename": "CH08_P04_S02--Hướng_dẫn_lập_trình_với_kiến_trúc_mạng_RNN_và_LSTM",
+    "chapter": "CH08",
+    "part": "P04",
+    "sub_part": "S02",
+    "title": "Hướng_dẫn_lập_trình_với_kiến_trúc_mạng_RNN_và_LSTM"
+  },
+  {
+    "source_file": "Chương_9_Part_1_1_Giới_thiệu_bài_toán_Dịch_máy",
+    "standardized_filename": "CH09_P01_S01--Giới_thiệu_bài_toán_Dịch_máy",
+    "chapter": "CH09",
+    "part": "P01",
+    "sub_part": "S01",
+    "title": "Giới_thiệu_bài_toán_Dịch_máy"
+  },
+  {
+    "source_file": "Chương_9_Part_1_2_Giới_thiệu_bài_toán_Dịch_máy",
+    "standardized_filename": "CH09_P01_S02--Giới_thiệu_bài_toán_Dịch_máy",
+    "chapter": "CH09",
+    "part": "P01",
+    "sub_part": "S02",
+    "title": "Giới_thiệu_bài_toán_Dịch_máy"
+  },
+  {
+    "source_file": "Chương_9_Part_2_1_Cơ_chế_Attention_trong_Sequence-to-Sequence",
+    "standardized_filename": "CH09_P02_S01--Cơ_chế_Attention_trong_Sequence-to-Sequence",
+    "chapter": "CH09",
+    "part": "P02",
+    "sub_part": "S01",
+    "title": "Cơ_chế_Attention_trong_Sequence-to-Sequence"
+  },
+  {
+    "source_file": "Chương_9_Part_2_2_Cơ_chế_Attention_trong_Sequence-to-Sequence",
+    "standardized_filename": "CH09_P02_S02--Cơ_chế_Attention_trong_Sequence-to-Sequence",
+    "chapter": "CH09",
+    "part": "P02",
+    "sub_part": "S02",
+    "title": "Cơ_chế_Attention_trong_Sequence-to-Sequence"
+  },
+  {
+    "source_file": "Chương_9_Part_3_Một_số_biến_thể_của_Attention",
+    "standardized_filename": "CH09_P03_S01--Một_số_biến_thể_của_Attention",
+    "chapter": "CH09",
+    "part": "P03",
+    "sub_part": "S01",
+    "title": "Một_số_biến_thể_của_Attention"
+  },
+  {
+    "source_file": "Chương_10_Part_1_Ôn_tập_kiến_trúc_mạng_RNN_và_cơ_chế_Attention",
+    "standardized_filename": "CH10_P01_S01--Ôn_tập_kiến_trúc_mạng_RNN_và_cơ_chế_Attention",
+    "chapter": "CH10",
+    "part": "P01",
+    "sub_part": "S01",
+    "title": "Ôn_tập_kiến_trúc_mạng_RNN_và_cơ_chế_Attention"
+  },
+  {
+    "source_file": "Chương_10_Part_2_Động_lực_của_kiến_trúc_Transformer",
+    "standardized_filename": "CH10_P02_S01--Động_lực_của_kiến_trúc_Transformer",
+    "chapter": "CH10",
+    "part": "P02",
+    "sub_part": "S01",
+    "title": "Động_lực_của_kiến_trúc_Transformer"
+  },
+  {
+    "source_file": "Chương_10_Part_3_Cơ_chế_Self-Attention",
+    "standardized_filename": "CH10_P03_S01--Cơ_chế_Self-Attention",
+    "chapter": "CH10",
+    "part": "P03",
+    "sub_part": "S01",
+    "title": "Cơ_chế_Self-Attention"
+  },
+  {
+    "source_file": "Chương_10_Part_4_1_Kiến_trúc_Transformer_Bộ_Encoder",
+    "standardized_filename": "CH10_P04_S01--Kiến_trúc_Transformer_Bộ_Encoder",
+    "chapter": "CH10",
+    "part": "P04",
+    "sub_part": "S01",
+    "title": "Kiến_trúc_Transformer_Bộ_Encoder"
+  },
+  {
+    "source_file": "Chương_10_Part_4_2_Kiến_trúc_Transformer_Bộ_Encoder",
+    "standardized_filename": "CH10_P04_S02--Kiến_trúc_Transformer_Bộ_Encoder",
+    "chapter": "CH10",
+    "part": "P04",
+    "sub_part": "S02",
+    "title": "Kiến_trúc_Transformer_Bộ_Encoder"
+  },
+  {
+    "source_file": "Chương_10_Part_4_3_Kiến_trúc_Transformer_Bộ_Encoder",
+    "standardized_filename": "CH10_P04_S03--Kiến_trúc_Transformer_Bộ_Encoder",
+    "chapter": "CH10",
+    "part": "P04",
+    "sub_part": "S03",
+    "title": "Kiến_trúc_Transformer_Bộ_Encoder"
+  },
+  {
+    "source_file": "Chương_10_Part_5_Kiến_trúc_Transformer_Bộ_Decoder",
+    "standardized_filename": "CH10_P05_S01--Kiến_trúc_Transformer_Bộ_Decoder",
+    "chapter": "CH10",
+    "part": "P05",
+    "sub_part": "S01",
+    "title": "Kiến_trúc_Transformer_Bộ_Decoder"
+  },
+  {
+    "source_file": "Chương_10_Part_6_Một_số_vấn_đề_của_Transformer",
+    "standardized_filename": "CH10_P06_S01--Một_số_vấn_đề_của_Transformer",
+    "chapter": "CH10",
+    "part": "P06",
+    "sub_part": "S01",
+    "title": "Một_số_vấn_đề_của_Transformer"
+  },
+  {
+    "source_file": "Chương_10_Part_7_Một_số_ứng_dụng_của_kiến_trúc_mạng_Transformer",
+    "standardized_filename": "CH10_P07_S01--Một_số_ứng_dụng_của_kiến_trúc_mạng_Transformer",
+    "chapter": "CH10",
+    "part": "P07",
+    "sub_part": "S01",
+    "title": "Một_số_ứng_dụng_của_kiến_trúc_mạng_Transformer"
+  }
+]
